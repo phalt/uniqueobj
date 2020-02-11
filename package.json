@@ -1,10 +1,10 @@
 {
   "name": "uniqueobj",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Remove duplicates from an array of objects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/phalt/uniqueobj/issues"
   },
-  "homepage": "https://github.com/phalt/uniqueobj#readme"
+  "homepage": "https://github.com/phalt/uniqueobj#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
