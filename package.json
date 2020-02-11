@@ -1,5 +1,5 @@
 {
-  "name": "objset",
+  "name": "uniqueobj",
   "version": "1.0.0",
   "description": "Remove duplicates from an array of objects",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phalt/objset.git"
+    "url": "git+https://github.com/phalt/uniqueobj.git"
   },
   "keywords": [
     "objects",
@@ -17,7 +17,7 @@
   "author": "Paul Hallett",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/phalt/objset/issues"
+    "url": "https://github.com/phalt/uniqueobj/issues"
   },
-  "homepage": "https://github.com/phalt/objset#readme"
+  "homepage": "https://github.com/phalt/uniqueobj#readme"
 }
