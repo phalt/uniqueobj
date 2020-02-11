@@ -20,7 +20,7 @@ Takes an iterable of `Object`.
 import uniqueObj from 'uniqueObj';
 
 // just use the `id` value in each object to identify it
-uniqueResults = uniqueObj(allResults, (obk) => obj.id);
+uniqueResults = uniqueObj(allResults, (obj) => obj.id);
 
 // Do something a bit more complicated
 uniqueResults = uniqueObj(allResults, myComplicatedHashFunc);
