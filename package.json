@@ -1,0 +1,23 @@
+{
+  "name": "objset",
+  "version": "1.0.0",
+  "description": "Remove duplicates from an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phalt/objset.git"
+  },
+  "keywords": [
+    "objects",
+    "set"
+  ],
+  "author": "Paul Hallett",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/phalt/objset/issues"
+  },
+  "homepage": "https://github.com/phalt/objset#readme"
+}
